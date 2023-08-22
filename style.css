@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    background-color: #689257;
     background-image: url(images/birthday1.png) ;
     background-position: top right,top left;
     background-repeat: no-repeat, repeat;
@@ -12,7 +13,7 @@ body{
 }
 .container{
      background-color: azure;
-     box-shadow: 2px 2px 3px #756f6f;
+     box-shadow: 2px 2px 3px #110000;
      padding: 30px;
      margin: 20px;
      width: 700px; 
@@ -22,22 +23,23 @@ body{
 section h1{
     font-size: 20px;
     margin: 10px;
-    color: #6d4444;
+    color: #bebdbd;
      text-shadow:1px 1px 2px #000000 ;
 }
 .container2 img{
     border-top: 20px;
     margin-left: 30px;
     padding: 10px;
-    border: 1px solid #16122c;
+    border: 1px solid #4d457e;
     background-color: bisque;
+    border-radius: 60px;
 }
 .container3 img{
     margin-top: 20px;
     border-radius: 60px;
     margin-left: 30px;
     padding: 10px;
-    border:1px solid #756f6f;
+    border:1px solid #4d457e;
     background-color: bisque;
     width: 250px;
     height: 200px;
@@ -48,5 +50,5 @@ footer{
     font-size: 20px;
     text-align: center;
     margin: 10px;
-    text-shadow: #ff9797;
+    text-shadow: #000000;
 }
